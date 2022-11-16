@@ -1,0 +1,38 @@
+ol {
+    border: 2px solid black;
+    width: 250px;
+    padding: 5px;
+}
+
+li {
+    list-style-position: inside;
+    padding: 2px 2px 2px 34px;
+}
+
+li:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+li > a {
+    text-decoration: none;
+    color: black;
+}
+
+li > a:hover {
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: red;
+}
+
+.en {
+    background: url("../img/en-GB.png") 5px center no-repeat rgba(0, 255, 0, 0.75);
+}
+
+.de {
+    background: url("../img/de.png") 5px center no-repeat rgba(255, 0, 0, 0.25);
+}
+
+.es {
+    background: url("../img/es.png") 5px center no-repeat rgba(0, 0, 255, 0.5);
+}
+
