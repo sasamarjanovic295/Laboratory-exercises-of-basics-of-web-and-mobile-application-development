@@ -1,0 +1,10 @@
+#md {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+}
+
+#asds, #arts {
+    display: flex;
+    flex-direction: column;
+}

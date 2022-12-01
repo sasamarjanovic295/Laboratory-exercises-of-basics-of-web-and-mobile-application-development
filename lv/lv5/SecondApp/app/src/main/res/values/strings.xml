@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecondApp</string>
+    <string name="submit_button_name">Unesi</string>
+    <string name="person_edit_text">Ime i Prezime</string>
+    <string name="desc_edit_text">Opis</string>
+    <string name="calc_edit_text">Izracunaj</string>
+    <string name="kg_edit_text">Kg</string>
+    <string name="cm_edit_text">Cm</string>
+</resources>

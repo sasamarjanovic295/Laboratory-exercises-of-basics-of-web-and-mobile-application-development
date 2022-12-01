@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ThirdApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bp_radio_button">Bruno Petkovic</string>
+    <string name="mk_radio_button">Mateo Kovacic</string>
+    <string name="lm_radio_button">Luka Modric</string>
+    <string name="bb_radio_button">Borna Barisic</string>
+    <string name="naprijed_button">Naprijed</string>
+    <string name="natrag_button">Natrag</string>
+    <string name="bs_desc_txt">Najbolji nogometas Hratske nogometne reprezentacije je:</string>
+</resources>
